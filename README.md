@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manusha-Vemulapalli
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning web development techniques.
-- 💞️ I’m looking for few interships in summer. 
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently looking for fulltime/internship positions for Data Analyst title.
+- 💞️ I have a cutting edge for learning new technologies. Added are my pet projects that are developed while I'm learning those technologies. 
 - 📫 How to reach me: my personal email.
 
 <!---
