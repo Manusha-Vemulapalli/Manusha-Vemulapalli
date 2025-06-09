@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manusha-Vemulapalli
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently looking for fulltime/internship positions for Data Analyst title.
+- 👀 I’m interested in Data Science particularly machine learning. 
+- 🌱 I’m currently a PhD student in Industrial Engineering
 - 💞️ I have a cutting edge for learning new technologies. Added are my pet projects that are developed while I'm learning the technologies. 
 - 📫 How to reach me: my personal email.
 
